@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan R</h1>
 <h3 align="center">A passionate front- and Back-end developer from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gmxjnr&label=Profile%20views&color=0e75b6&style=flat" alt="gmxjnr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmxjnr" alt="gmxjnr" /></a> </p>
 
