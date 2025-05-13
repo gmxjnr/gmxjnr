@@ -2,8 +2,6 @@
 <h3 align="center">A passionate front- and Back-end developer from The Netherlands</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmxjnr" alt="gmxjnr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/milanbtw" target="blank"><img src="https://img.shields.io/twitter/follow/milanbtw?logo=twitter&style=for-the-badge" alt="milanbtw" /></a> </p>
 
 - 🔭 I’m currently working on **Moodjournal**
