@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/milanbtw" target="blank"><img src="https://img.shields.io/twitter/follow/milanbtw?logo=twitter&style=for-the-badge" alt="milanbtw" /></a> </p>
 
-- 🔭 I’m currently working on **Moodjournal**
+- 🔭 I’m currently working on **NOVA AI**
 
-- 🌱 I’m currently learning **Next.js, LUA**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **Discord Bots**
 
-- 👨‍💻 All of my projects are available at [https://milanramakers.dev](https://milanramakers.dev)
+- 👨‍💻 All of my projects are available at [my portfolio](https://gmxjnr.dev)
 
 - 💬 Ask me about **Python**
 
