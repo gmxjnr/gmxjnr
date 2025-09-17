@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milan R</h1>
 <h3 align="center">A passionate front- and Back-end developer from The Netherlands</h3>
 
+[![Milan R profile views](https://u8views.com/api/v1/github/profiles/149660218/views/day-week-month-total-count.svg)](https://u8views.com/github/gmxjnr)
+
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Ai/ML Engineering/Developing<br>💬 Ask me about Python<br>⚡ Fun fact, i started developing because my uncle once showed me his work when i was 13. The rest is history.
 
@@ -26,5 +28,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gmxjnr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Milan R profile views](https://u8views.com/api/v1/github/profiles/149660218/views/day-week-month-total-count.svg)](https://u8views.com/github/gmxjnr)
