@@ -53,14 +53,14 @@
 
 ## 📊 GitHub Stats
 
-![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmxjnr&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- 💬 Discord: *add your tag here*  
-- 📧 Email: *optional*  
+- 💬 Discord: *gmxjnr.*  
+- 📧 Email: *hello@gmxjnr.nl*  
 
 ---
 
