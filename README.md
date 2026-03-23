@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milan R</h1>
-<h3 align="center">A passionate front- and Back-end developer from The Netherlands</h3>
+# Hi, I'm Milan 👋
 
 💻 Software Developer Student  
 🚀 Curious about how systems work — and how they break  
