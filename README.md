@@ -1,63 +1,55 @@
-# Hi, I'm Milan 👋
+# Hey there 👋  
+I'm **gmxjnr** — also known as **jynx.py** on Discord.  
 
-💻 Software Developer Student  
-🚀 Curious about how systems work — and how they break  
-🔍 Currently learning reverse engineering  
+A developer based in **The Netherlands** with a passion for building cool things, breaking stuff apart, and figuring out how everything works behind the scenes.
 
----
+I mainly work with **Python**, but I also spend a lot of time with **Docker**, **Reverse Engineering**, and **Full Stack Web Development**. I enjoy creating projects that are advanced under the hood while still being clean and easy to use.
 
-## 🧠 About Me
+Programming started as curiosity for me, and eventually became one of my biggest hobbies. I love troubleshooting difficult problems, experimenting with new technologies, and building projects that challenge me to learn more every day.
 
-- 🎓 Studying Software Development  
-- ⚙️ Interested in low-level programming & system internals  
-- 🔬 Learning reverse engineering (analyzing binaries, understanding compiled code)  
-- 🧪 Exploring security concepts and how software behaves under the hood  
-- 📈 Always improving, one commit at a time  
+Most of the things I create eventually end up on GitHub.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- C / C++
-
-**Tools & Technologies**
-- Git & GitHub  
-- Node.js  
+- Python  
+- Docker  
+- Reverse Engineering  
+- Full Stack Web Development  
 - Linux  
-- REST APIs  
-- Docker (learning)  
+- APIs & Backend Systems  
+- UI/UX Development  
 
 ---
 
-## 🧪 Currently Learning
+## 💡 About Me
 
-- Reverse engineering basics  
-- Working with disassemblers & debuggers  
-- Understanding compiled code (C/C++ → assembly)  
-- Memory, processes & low-level concepts  
+- I'm **20 years old**  
+- Started programming when I was around **12/13**  
+- Big fan of clean and efficient systems  
+- I enjoy reverse engineering and understanding how software works internally  
+- Definitely not a morning person ☕  
+- I like building projects that look simple on the outside, but are powerful underneath  
 
 ---
 
-## 📂 Projects
+## 📌 Interests
 
-🚧 Always working on something...
-
-- 🔗 Personal projects & experiments  
-- 🧠 Learning-focused builds  
-- ⚡ System-level and low-level explorations  
+- Backend architecture  
+- Security & reverse engineering  
+- Automation tools  
+- Self-hosting & infrastructure  
+- Building unique web applications  
+- Low-level experimentation  
 
 ---
 
 ## 📫 Contact
 
-- 💬 Discord: *jynx.py*  
-- 📧 Email: *hello@gmxjnr.nl*  
+- **Discord:** `jynx.py`  
+- **Email:** `hello@gmxjnr.nl`  
 
 ---
 
-## ⚡ Fun Fact
-
-> I like figuring out how things work… and sometimes how to break them 😄
+> “I don't code because I have to — I code because I genuinely enjoy creating things.”
