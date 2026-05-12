@@ -51,15 +51,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmxjnr&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
-- 💬 Discord: *gmxjnr.*  
+- 💬 Discord: *jynx.py*  
 - 📧 Email: *hello@gmxjnr.nl*  
 
 ---
