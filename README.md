@@ -1,5 +1,5 @@
 # Hey there 👋  
-I'm **gmxjnr** — also known as **jynx.py** on Discord.  
+I'm **gmxjnr** — also known as **gmxjnr.exe** on Discord.  
 
 A developer based in **The Netherlands** with a passion for building cool things, breaking stuff apart, and figuring out how everything works behind the scenes.
 
