@@ -47,7 +47,7 @@ Most of the things I create eventually end up on GitHub.
 
 ## 📫 Contact
 
-- **Discord:** `jynx.py`  
+- **Discord:** `gmxjnr.exe`  
 - **Email:** `hello@gmxjnr.nl`  
 
 ---
