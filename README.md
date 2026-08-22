@@ -29,7 +29,7 @@ Most of the things I create eventually end up on GitHub.
 - Started programming when I was around **12/13**  
 - Big fan of clean and efficient systems  
 - I enjoy reverse engineering and understanding how software works internally  
-- Definitely not a morning person ☕  
+- I have a very beautiful and loving girlfriend 
 - I like building projects that look simple on the outside, but are powerful underneath  
 
 ---
